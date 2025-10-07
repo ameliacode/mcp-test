@@ -37,7 +37,3 @@ python main.py
 - Python 3.8+
 - OpenAI API key (for RAG server)
 - See individual server directories for specific dependencies
-
-## Usage
-
-Each server can be run independently and provides different MCP tools and capabilities. Refer to individual server documentation for specific usage instructions.

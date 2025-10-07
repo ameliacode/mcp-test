@@ -1,0 +1,17 @@
+python-dotenv
+python-docx
+langchain
+langchain-core
+langchain-openai
+langhchain-community
+openai
+openpyxl
+pandas
+mcp
+fastmcp
+fastapi
+uvicorn
+starlette
+chromadb
+pypdf
+tiktoken

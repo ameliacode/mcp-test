@@ -1,4 +1,4 @@
-### 📓 나만의 mcp 서버 만들기 with 커서 ai
+## 📓 나만의 mcp 서버 만들기 with 커서 ai
 
 A collection of Model Context Protocol (MCP) server implementations showcasing various capabilities and use cases for testing and demonstration.
 
